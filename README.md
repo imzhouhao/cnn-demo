@@ -1,4 +1,9 @@
+![alt](./mnist_1.png)
+
+![](/home/codog/ML/CNN/mnist_2.png)
+
 # MNIST-CNN-Pytorch
+
 MNIST手写数字识别项目-CNN-pytorch
 
 # 需要安装python包
