@@ -8,8 +8,6 @@ MNIST手写数字识别项目-CNN-pytorch
 - numpy
 
 # 运行命令
-在根目录下，输入python Net。可以看到demo。看代码。（Ubuntu16 without GPU）
-
-# 敲错命令，全删除了，，，，，，没有上传成功。。。git rm -r *
-# 谢谢Sublime Text 3缓存着
+- 在根目录下，输入python Net。可以看到demo。(Ubuntu16 without GPU）
+- 可以脱机运行
 
